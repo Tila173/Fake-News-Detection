@@ -1,5 +1,5 @@
 # Fake-News-Detection
-"🚀 Explore the forefront of Fake News Detection! This repo equips you with powerful tools and advanced algorithms to sift through digital noise, exposing misinformation. Join the quest for accuracy, transparency, and informed decisions. Let's shape a truth-driven future! 🌐🔍 #FakeNews #DataScience #OpenSource"
+Explore the forefront of Fake News Detection! This repo equips you with powerful tools and advanced algorithms to sift through digital noise, exposing misinformation. Join the quest for accuracy, transparency, and informed decisions. Let's shape a truth-driven future! 🌐🔍 #FakeNews #DataScience #OpenSource 
 
 Welcome to the Fake News Detection repository! This repository contains a dataset named "Data.csv," enriched with features suitable for supervised machine learning classification. The dataset is accompanied by implementations of seven powerful classification algorithms.
 
